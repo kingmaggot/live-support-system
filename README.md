@@ -3,33 +3,36 @@
  
  
  
-English translation:  
+English translation:  </br>
  
 Free Live Support System
 With this system, you can instantly write on live support with people.
 
 Our quality and extremely good looking software is really good for you.
 
-1 - Upload Files to FTP.
-2 - Log in as www.testing.com/install.
-3 - Complete the installation by filling in the required locations.
 
-The installation steps are shown below.
+Setup :</br>
+
+1 - Upload Files to FTP.</br>
+2 - Log in as www.testing.com/install.</br>
+3 - Complete the installation by filling in the required locations.</br>
+
+The installation steps are shown below.</br>
 
 <hr>
 
-Turkish translation: 
+Turkish translation:</br> 
 
 Bu yazılım ile , ücretsiz bir şekilde insanlar ile canlı destek üzerinden sohbet edebilirsiniz. Kolay yönetilebilir admin paneli sayesinde , sistemi geliştirebilirsiniz. Ayrıca sistemin size vereceği özel kod ile , birden fazla sitede anlık olarak yayın yapabilirsiniz.
 
 
-Kurulum : 
+Kurulum : </br>
 
-1 - Dosyaları FTP Yükleyin.
-2 - www.testing.com/install şeklinde giriş yapınız. 
-3 - Gerekli yerleri doldurarak kurulumu tamamlayın. 
+1 - Dosyaları FTP Yükleyin.</br>
+2 - www.testing.com/install şeklinde giriş yapınız.</br> 
+3 - Gerekli yerleri doldurarak kurulumu tamamlayın. </br>
 
-Kurulum adımları aşağıdaki resimlerde mevcuttur.
+Kurulum adımları aşağıdaki resimlerde mevcuttur.</br>
 
 
 <img src="https://image.prntscr.com/image/IIZAC_dmR5OcK-2hGJQxGg.png"></br>
