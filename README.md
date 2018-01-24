@@ -1,5 +1,35 @@
 # live-support-system
  Live Support System
+ 
+ 
+ 
+English translation:  
+ 
+Free Live Support System
+With this system, you can instantly write on live support with people.
+
+Our quality and extremely good looking software is really good for you.
+
+1 - Upload Files to FTP.
+2 - Log in as www.testing.com/install.
+3 - Complete the installation by filling in the required locations.
+
+The installation steps are shown below.
+
+<hr>
+
+Turkish translation: 
+
+Bu yazılım ile , ücretsiz bir şekilde insanlar ile canlı destek üzerinden sohbet edebilirsiniz. Kolay yönetilebilir admin paneli sayesinde , sistemi geliştirebilirsiniz. Ayrıca sistemin size vereceği özel kod ile , birden fazla sitede anlık olarak yayın yapabilirsiniz.
+
+
+Kurulum : 
+
+1 - Dosyaları FTP Yükleyin.
+2 - www.testing.com/install şeklinde giriş yapınız. 
+3 - Gerekli yerleri doldurarak kurulumu tamamlayın. 
+
+Kurulum adımları aşağıdaki resimlerde mevcuttur.
 
 
 <img src="https://image.prntscr.com/image/IIZAC_dmR5OcK-2hGJQxGg.png"></br>
