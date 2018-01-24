@@ -1,0 +1,21 @@
+/* Main */
+
+body {
+	padding-top: 100px;
+}
+
+a:hover {
+	text-decoration: none !important;
+}
+
+.center-block {
+	float: none;
+}
+
+.alert {
+	background: #FFFFFF;
+}
+
+.alert-danger {
+	border-left: 5px solid #A94442;
+}
